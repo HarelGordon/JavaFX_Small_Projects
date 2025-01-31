@@ -22,4 +22,4 @@ If you are right you earn 10 points.
 If you are wrong you lose 5 points.
 At the end of the game you see how many points are left. You can stop the game whenever you want.
 
-![Alt text](bin/server.png)
+
