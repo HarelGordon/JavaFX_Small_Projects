@@ -30,4 +30,4 @@ The server notifies all participants in the room when someone has joined or left
 Also, each message is broadcast to everyone.
 The program uses both TCP networking and parallel programming (Threads).
 
-![Test Image 1](3DTest.png)
+![Test Image 1](server.png)
