@@ -22,4 +22,12 @@ If you are right you earn 10 points.
 If you are wrong you lose 5 points.
 At the end of the game you see how many points are left. You can stop the game whenever you want.
 
+**Client-server (chat room):**
+There is a computer (in this case a local one) that acts as a server.
+You can run multiple UI's at the same time - these are essentially the gateways to the chat room.
+To enter the room, you need to enter the server address and your name.
+The server notifies all participants in the room when someone has joined or left.
+Also, each message is broadcast to everyone.
+The program uses both TCP networking and parallel programming (Threads).
 
+![Test Image 1](3DTest.png)
